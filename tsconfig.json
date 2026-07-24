@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "types" : ["node"],
+        "module" : "CommonJS",
+        "target": "ES2022", //version du ts
+        "esModuleInterop": true, //permet d'utiliser la synthaxe import
+        "skipLibCheck": true, //pour ignorer les erreurs ts dans le fichier node module ( vérifie seulement le code)
+        "rootDir": "./src"
+    },
+    "ts-node": {
+        "transpileOnly": true
+    }
+
+}

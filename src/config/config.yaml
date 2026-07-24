@@ -1,0 +1,15 @@
+environnement:
+ urlTest: 'https://www.automationexercise.com'
+ urlPreprod: 'https://www.automation.com'
+
+user:
+ login: 'haithem.bougaalech@gmail.com'
+ password:
+
+
+payment:
+ cardName: 'Haithem'
+ cardNumber: '123456789'
+ cvc: '123'
+ expirationMonth: '01'
+ expirationYear: '2029'

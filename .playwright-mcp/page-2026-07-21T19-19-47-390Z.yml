@@ -1,0 +1,101 @@
+- generic [active] [ref=f313e1]:
+  - banner [ref=f313e2]:
+    - generic [ref=f313e5]:
+      - link [ref=f313e8] [cursor=pointer]:
+        - /url: /
+        - img "Automation Exercise website" [ref=f313e9]
+      - list [ref=f313e12]:
+        - listitem [ref=f313e13]:
+          - link " Home" [ref=f313e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f313e15]: 
+            - text: Home
+        - listitem [ref=f313e16]:
+          - link " Products" [ref=f313e17] [cursor=pointer]:
+            - /url: /products
+            - generic [ref=f313e18]: 
+            - text: Products
+        - listitem [ref=f313e19]:
+          - link " Cart" [ref=f313e20] [cursor=pointer]:
+            - /url: /view_cart
+            - generic [ref=f313e21]: 
+            - text: Cart
+        - listitem [ref=f313e22]:
+          - link " Signup / Login" [ref=f313e23] [cursor=pointer]:
+            - /url: /login
+            - generic [ref=f313e24]: 
+            - text: Signup / Login
+        - listitem [ref=f313e25]:
+          - link " Test Cases" [ref=f313e26] [cursor=pointer]:
+            - /url: /test_cases
+            - generic [ref=f313e27]: 
+            - text: Test Cases
+        - listitem [ref=f313e28]:
+          - link " API Testing" [ref=f313e29] [cursor=pointer]:
+            - /url: /api_list
+            - generic [ref=f313e30]: 
+            - text: API Testing
+        - listitem [ref=f313e31]:
+          - link " Video Tutorials" [ref=f313e32] [cursor=pointer]:
+            - /url: https://www.youtube.com/c/AutomationExercise
+            - generic [ref=f313e33]: 
+            - text: Video Tutorials
+        - listitem [ref=f313e34]:
+          - link " Contact us" [ref=f313e35] [cursor=pointer]:
+            - /url: /contact_us
+            - generic [ref=f313e36]: 
+            - text: Contact us
+  - generic [ref=f313e40]:
+    - heading "Account Created!" [level=2] [ref=f313e41]
+    - paragraph [ref=f313e42]: Congratulations! Your new account has been successfully created!
+    - paragraph [ref=f313e43]:
+      - text: You can now take advantage of member privileges to enhance your online
+      - link "shopping" [ref=f313e44] [cursor=pointer]:
+        - /url: "#"
+      - text: experience with us.
+      - link "Shopping & Retailers" [ref=f313e47] [cursor=pointer]
+    - link "Continue" [ref=f313e52] [cursor=pointer]:
+      - /url: /
+  - contentinfo [ref=f313e53]:
+    - generic [ref=f313e58]:
+      - heading "Subscription" [level=2] [ref=f313e59]
+      - generic [ref=f313e60]:
+        - textbox "Your email address" [ref=f313e61]
+        - button "" [ref=f313e62] [cursor=pointer]
+        - paragraph [ref=f313e64]: Get the most recent updates from our site and be updated your self...
+    - paragraph [ref=f313e68]: Copyright © 2021 All rights reserved
+  - text: 
+  - insertion [ref=f313e70]:
+    - generic [ref=f313e73]:
+      - heading "These are topics related to the article that might interest you" [level=2] [ref=f313e75]: Discover more
+      - link "Online shopping platform" [ref=f313e76] [cursor=pointer]
+      - link "User account creation" [ref=f313e81] [cursor=pointer]
+      - link "Contact us support" [ref=f313e86] [cursor=pointer]
+  - insertion [ref=f313e91]:
+    - iframe [ref=f313e94]:
+      - iframe [ref=f322e1]:
+        - generic [ref=f324e2]:
+          - iframe [ref=f324e5]:
+            - generic [ref=f333e1]:
+              - img "loading" [ref=f333e3]
+              - generic [ref=f333e4]:
+                - img "guide" [ref=f333e8]
+                - img "logo" [ref=f333e10]
+                - generic [ref=f333e12]:
+                  - generic [ref=f333e13]:
+                    - text: Gemini Enterprise
+                    - generic [ref=f333e14]: App App
+                    - generic [ref=f333e15]: ": :"
+                    - generic [ref=f333e16]: une une
+                    - generic [ref=f333e17]: IA IA
+                  - generic [ref=f333e18]:
+                    - generic [ref=f333e19]: sécurisée sécurisée
+                    - generic [ref=f333e20]: pour pour
+                    - generic [ref=f333e21]: vos vos
+                    - generic [ref=f333e22]: données données
+                    - generic [ref=f333e23]: pro. pro.
+                - generic [ref=f333e24] [cursor=pointer]: Commencer
+          - button [ref=f324e14] [cursor=pointer]
+  - generic [ref=f313e96]:
+    - button "Paramètres concernant la confidentialité et les cookies" [ref=f313e97] [cursor=pointer]
+    - generic [ref=f313e98]: "Géré par Google. Conforme au TCF de l'IAB. ID de CMP : 300"

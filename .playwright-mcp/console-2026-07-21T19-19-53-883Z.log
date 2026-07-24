@@ -1,0 +1,38 @@
+[     882ms] [ERROR] Mixed Content: The page at 'https://www.automationexercise.com/login' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100'. This request has been blocked; the content must be served over HTTPS. @ https://www.automationexercise.com/login:18
+[     882ms] [ERROR] Mixed Content: The page at 'https://www.automationexercise.com/login' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700'. This request has been blocked; the content must be served over HTTPS. @ https://www.automationexercise.com/login:18
+[     882ms] [ERROR] Mixed Content: The page at 'https://www.automationexercise.com/login' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Abel'. This request has been blocked; the content must be served over HTTPS. @ https://www.automationexercise.com/login:18
+[     900ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.automationexercise.com/login:0
+[    2408ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://www.automationexercise.com/login:0
+[    2458ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2497ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2526ms] [WARNING] GSAP target .badge1 .letter not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2527ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2542ms] [WARNING] GSAP target .bg-f1 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2543ms] [WARNING] GSAP target .bg-f1 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2545ms] [WARNING] GSAP target .f3-bg not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2545ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2546ms] [WARNING] GSAP target .bundle-txt-f3 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2546ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2546ms] [WARNING] GSAP target .bundle-txt-f3 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2551ms] [WARNING] GSAP target .cta-2 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2555ms] [WARNING] GSAP target .bg-f5 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2555ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2558ms] [WARNING] GSAP target .badge5 .letter not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2558ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[    2564ms] [LOG] 15 @ https://s0.2mdn.net/sadbundle/2544729760834868264/2701g0022_0001_8592127_fr_isg_mb_fy27q2w1_oa_dell_bfy-sto_data-storage-bfy_728x90.js:77
+[    2610ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://www.automationexercise.com/login:0
+[    2834ms] Uncaught TypeError: Cannot read properties of undefined (reading 'toString')
+    at aX (https://c.evidon.com/geo/ba.js?r260324:0:2705)
+    at <anonymous> (https://c.evidon.com/geo/ba.js?r260324:0:43451)
+    at <anonymous> (https://c.evidon.com/geo/ba.js?r260324:0:43772)
+[    6819ms] [ERROR] Mixed Content: The page at 'https://www.automationexercise.com/signup' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100'. This request has been blocked; the content must be served over HTTPS. @ https://www.automationexercise.com/signup:18
+[    6819ms] [ERROR] Mixed Content: The page at 'https://www.automationexercise.com/signup' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700'. This request has been blocked; the content must be served over HTTPS. @ https://www.automationexercise.com/signup:18
+[    6820ms] [ERROR] Mixed Content: The page at 'https://www.automationexercise.com/signup' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Abel'. This request has been blocked; the content must be served over HTTPS. @ https://www.automationexercise.com/signup:18
+[    6873ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.automationexercise.com/signup:0
+[    7979ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    8031ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://www.automationexercise.com/signup:0
+[    8045ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    7979ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    8045ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    8464ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    8630ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://www.automationexercise.com/signup:0

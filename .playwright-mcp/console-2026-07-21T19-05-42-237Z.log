@@ -1,0 +1,17 @@
+[     881ms] [ERROR] Mixed Content: The page at 'https://automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100'. This request has been blocked; the content must be served over HTTPS. @ https://automationexercise.com/:18
+[     881ms] [ERROR] Mixed Content: The page at 'https://automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700'. This request has been blocked; the content must be served over HTTPS. @ https://automationexercise.com/:18
+[     881ms] [ERROR] Mixed Content: The page at 'https://automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Abel'. This request has been blocked; the content must be served over HTTPS. @ https://automationexercise.com/:18
+[    2193ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2310ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://automationexercise.com/:0
+[    2193ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2491ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://automationexercise.com/:0
+[    2508ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2593ms] [WARNING] Origin not specified in model, cannot post loaded message to parent @ https://s0.2mdn.net/sadbundle/9685582234176628449/main.js:0
+[    2736ms] [ERROR] Refused to apply style from 'https://s0.2mdn.net/sadbundle/9685582234176628449/videoInterface.css' because its MIME type ('image/gif') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ https://s0.2mdn.net/sadbundle/9685582234176628449/index.html?ev=01_262:0
+[    2738ms] Object
+[    2807ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://automationexercise.com/:0
+[    2807ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://automationexercise.com/:0
+[    2193ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2508ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    3243ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    3488ms] [TIMEEND] a: 0.003173828125 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
