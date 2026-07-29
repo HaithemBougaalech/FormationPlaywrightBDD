@@ -44,7 +44,7 @@ export class RegisterPage {
     this.signupButton = page.locator('[data-qa="signup-button"]');
     this.signupErrorMessage = page.locator('#form div div div:nth-child(3) div form p');
 
-    this.enterAccountInformationTitle = page.getByRole("heading", { name: "Enter Account Information" });
+    this.enterAccountInformationTitle = page.getByText('Enter Account Information');
     this.titleMrRadio = page.locator("#id_gender1");
     this.titleMrsRadio = page.locator("#id_gender2");
     this.nameInput = page.locator('[data-qa="name"]');
