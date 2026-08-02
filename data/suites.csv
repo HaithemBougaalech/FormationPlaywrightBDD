@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"En tant que visiteur je veux pouvoir creer un compte afin d'acceder aux fonctionnalites membres","1417","inscription avec un email deja existant","","2026-08-02","passed","2026-08-02","","","",""
-"En tant que visiteur je veux pouvoir creer un compte afin d'acceder aux fonctionnalites membres","2643","inscription avec champs obligatoires vides sur la page account information","","2026-08-02","passed","2026-08-02","","","",""
-"En tant que visiteur je veux pouvoir creer un compte afin d'acceder aux fonctionnalites membres","3552","inscription complete reussie","","2026-08-02","passed","2026-08-02","","","",""
+"En tant que visiteur je veux pouvoir creer un compte afin d'acceder aux fonctionnalites membres","1628","inscription avec champs obligatoires vides sur la page account information","","2026-08-02","passed","2026-08-02","","","",""
+"En tant que visiteur je veux pouvoir creer un compte afin d'acceder aux fonctionnalites membres","7183","inscription complete reussie","","2026-08-02","failed","2026-08-02","","","",""
+"En tant que visiteur je veux pouvoir creer un compte afin d'acceder aux fonctionnalites membres","1859","inscription avec un email deja existant","","2026-08-02","passed","2026-08-02","","","",""
