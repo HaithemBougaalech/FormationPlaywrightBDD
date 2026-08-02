@@ -28,7 +28,7 @@ When("je clique sur le bouton signup", async function () {
 });
 
 Then("je suis redirige vers la page d'inscription du compte", async function () {
-  await expect(pageFixture.page).toHaveURL(/\/login/);
+  await expect(pageFixture.page).toHaveURL(/\/signup/);
 });
 
 Then("je vois le titre {string}", async function (titre: string) {
