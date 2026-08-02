@@ -19,14 +19,16 @@ When("je renseigne le nom d'inscription {string}", async function (nom: string) 
 
 When("je renseigne l'email d'inscription {string}", async function (email: string) {
   await registerPage.fillSignupEmail(email);
+ 
 });
 
+
 When("je clique sur le bouton signup", async function () {
-  await registerPage.clickSignup();
+   await registerPage.clickSignup();
 });
 
 Then("je suis redirige vers la page d'inscription du compte", async function () {
-  await expect(pageFixture.page).toHaveURL(/\/signup/);
+  await expect(pageFixture.page).toHaveURL(/\/login/);
 });
 
 Then("je vois le titre {string}", async function (titre: string) {

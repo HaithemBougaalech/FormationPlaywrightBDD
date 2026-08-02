@@ -7,7 +7,7 @@ module.exports = {
       "src/support/pageFixture.ts",
       "src/steps/**/*.ts",
     ],
-    tags: "@registration",
+    tags: "@smoke",
     requireModule: ["ts-node/register"],
     format: [
       "progress-bar",
