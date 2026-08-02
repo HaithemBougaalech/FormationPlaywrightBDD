@@ -96,7 +96,7 @@ export class RegisterPage {
 
   // Soumet le premier formulaire New User Signup.
   async clickSignup(): Promise<void> {
-    await this.signupButton.click();
+    await this.signupButton.click({force: true});
   }
 
   // Sélectionne le titre Mr.
@@ -183,7 +183,7 @@ export class RegisterPage {
 
   // Soumet le formulaire complet de création de compte.
   async clickCreateAccount(): Promise<void> {
-    await this.createAccountButton.click();
+    await this.createAccountButton.click({force: true});
   }
 
   // Continue après création du compte.

@@ -9,13 +9,13 @@ Feature: Inscription d'un nouvel utilisateur
   @smoke
   Scenario: inscription complete reussie
     When je renseigne le nom d'inscription "Qa User"
-    And je renseigne l'email d'inscription "qa.user3.unique@example.com"
+    And je renseigne l'email d'inscription "qa.user6.unique@example.com"
     And je clique sur le bouton signup
     Then je suis redirige vers la page d'inscription du compte
     And je vois le titre "Enter Account Information"
     When je selectionne le titre "Mr"
     And je vois le nom pre-rempli "Qa User"
-    And je vois l'email pre-rempli "qa.user3.unique@example.com"
+    And je vois l'email pre-rempli "qa.user6.unique@example.com"
     And je renseigne le mot de passe "TestPass123!"
     And je selectionne la date de naissance "5" "May" "1995"
     And je coche "Sign up for our newsletter!"
@@ -34,14 +34,14 @@ Feature: Inscription d'un nouvel utilisateur
     Then je vois le message "Account Created!"
     And je vois le bouton "Continue"
 
-  @regression
+  @regression1
   Scenario: inscription avec un email deja existant
     When je renseigne le nom d'inscription "Qa User"
     And je renseigne l'email d'inscription "test.user.20260721.2105@example.com"
     And je clique sur le bouton signup
     Then je vois le message d'erreur "Email Address already exist!"
 
-  @regression
+  @regression2
   Scenario: inscription avec champs obligatoires vides sur la page account information
     When je renseigne le nom d'inscription "Qa Empty"
     And je renseigne l'email d'inscription "qa.empty.unique@example.com"
